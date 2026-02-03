@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: white;
+    transition: background-color 0.2s;
+}
+
+h2, h4 {
+    margin: 0.5rem;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 1rem;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.line-one, .line-two {
+    display: flex;
+    justify-content: center;
+}
+
+.yellow { background-color: yellow; }
+.red { background-color: red; }
+.blue { background-color: blue; }
+.green { background-color: green; }
+
+.flash { background-color: white !important; }
+.uflash { background-color: black !important; }
