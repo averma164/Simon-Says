@@ -1,0 +1,22 @@
+# Simon Says Game 
+
+**Simon Says** is an interactive memory game built with **HTML, CSS, and JavaScript**. Players must remember and repeat an increasing sequence of colors to advance through levels. Make a mistake, and the game ends, showing your score and highest score.
+
+## Features
+- 4 interactive color buttons: Yellow, Green, Red, Blue
+- Flash effects for sequence highlighting
+- Tracks current level and highest score
+- Visual feedback for correct/incorrect inputs
+- Restart the game by pressing any key
+
+## How to Play
+1. Press any key to start the game
+2. Watch the sequence of flashing colors
+3. Click the buttons in the same order
+4. Repeat sequences to level up
+5. Game ends when a wrong button is clicked
+
+## Technologies Used
+- **HTML** – Game structure and buttons
+- **CSS** – Styling, flash effects, and responsive layout
+- **JavaScript** – Game logic, sequence generation, and user interaction
